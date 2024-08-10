@@ -1,0 +1,17 @@
+/* Login Page */
+.login{
+    position: relative;
+    top: 100px;
+}
+.registration{
+    position: relative;
+    top: 60px;
+}
+
+.login .login-form, .registration .reg-form{
+    border-radius: 5px;
+    padding: 1rem;
+}
+.Bottom{
+    top: 100px;
+}
